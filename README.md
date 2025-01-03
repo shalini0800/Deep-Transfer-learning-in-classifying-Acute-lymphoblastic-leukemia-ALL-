@@ -1,7 +1,7 @@
-# Deep-Transfer-learning-in-classifying-Acute-lymphoblastic-leukemia(ALL)
+# Deep Transfer learning in classifying Acute lymphoblastic leukemia(ALL)
 
   
-Here I am Sharing one of my projects from Bachelor's in Biomedical engineering. I have applied the deep learning in diagnosis of Acute Lymphoblastic Leukemia diagnosis.
+Here I am Sharing one of my projects from my Bachelor's in Biomedical engineering. I have applied the deep learning in diagnosis of Acute Lymphoblastic Leukemia diagnosis.
 The overall process starting from the microscopic image taken as input and then classifying them as either ALL or Non-ALL cell is shown in the below block diagram.
 ![Screenshot 2025-01-03 173440](https://github.com/user-attachments/assets/20ee34d5-c086-4502-9e33-95383f05b5c1)
 
