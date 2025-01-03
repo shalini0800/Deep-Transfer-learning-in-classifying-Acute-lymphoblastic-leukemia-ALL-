@@ -1,4 +1,5 @@
-<div style="text-align: center;">
+# Deep-Transfer-learning-in-classifying-Acute-lymphoblastic-leukemia(ALL)
+
   
 Here I am Sharing one of my projects from Bachelor's in Biomedical engineering. I have applied the deep learning in diagnosis of Acute Lymphoblastic Leukemia diagnosis.
 The overall process starting from the microscopic image taken as input and then classifying them as either ALL or Non-ALL cell is shown in the below block diagram.
@@ -18,4 +19,3 @@ Max-pooling and average-pooling layers to downsample and retain spatial hierarch
 
 It begins by importing essential libraries and defining paths for training and testing datasets. The InceptionV3 model is loaded with pretrained ImageNet weights, excluding its top classification layers to serve as a feature extractor. A custom fully connected layer with softmax activation is added for binary classification. The model is compiled using the RMSprop optimizer, binary cross-entropy loss, and metrics like accuracy and AUC. Data augmentation is applied using ImageDataGenerator to improve generalization. Finally, the model is trained, evaluated, and its performance visualized through metrics, a confusion matrix, and classification reports.
 
-</div>
